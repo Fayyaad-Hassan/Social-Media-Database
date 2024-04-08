@@ -1,6 +1,12 @@
-# Project5
+# Social Media Database
 
-#### This is the starter code for CSCI 235, Fall 2022, Project 5.  
+Project using C++ that logs accounts, usernames, posts, and timestamps. Use's regex to parse links from text. 
+
+## Getting Started
+
+Download and run in your preferred IDE. Project isn't compiled into a single application so it's more or less just written code that just does the features as described but nothing else.
 
 
-#### The project specification can be found on Blackboard.
+
+
+
